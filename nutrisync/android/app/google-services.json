@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1044133973521",
+    "project_id": "nutrisync-98850",
+    "storage_bucket": "nutrisync-98850.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044133973521:android:b1392ddb92d5fee041ebb0",
+        "android_client_info": {
+          "package_name": "com.snc.nutrisync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044133973521-lq9v1kpjuesal6h17uklb8v9ouv0a0d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snc.nutrisync",
+            "certificate_hash": "e3c83b4ef831d24b3cb0354fd23f20e6e136a7bb"
+          }
+        },
+        {
+          "client_id": "1044133973521-qif8hnadva549rlt099dggft33lhkg65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGRXYqg6WPScFQy-C9htC-VI4IIyGJkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044133973521-qif8hnadva549rlt099dggft33lhkg65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044133973521-jso7h31ievq1jsqdd8j2vo2n24n812dr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrisync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
